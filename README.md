@@ -1,4 +1,4 @@
-# Gravitation-Engine
+#Gravitation-Engine
 A physics engine that uses integration to model the force of gravitation on arbitrarily-shaped planets. This project provides experimental evidence for Newton's [Shell theorem](http://en.wikipedia.org/wiki/Shell_theorem)
 ##Notable Classes
 **PointProjectile:** represent point-like planets
